@@ -5,7 +5,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: montserrat;
-   background-image: url(Images/milk.jpg);
+    background-image: url(Images/milk.jpg);
     height:100vh;
     width: 100%;
     overflow:hidden;
@@ -19,7 +19,7 @@ body{
     background: white;
     border-radius: 10px;
 }
-.center h1{s
+.center h1{
   text-align: center;
   padding: 0 0 20px 0;
   border-bottom: 1px solid silver;
