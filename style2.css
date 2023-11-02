@@ -48,7 +48,7 @@ form .txt_field{
     top: 50%;
     left: 5px;
     color: #adadad;
-    transform: translatey(-50px);
+    transform: translatey(-50px)
     font-size :16px;
     pointer-events: none;
     transition: .5s;
