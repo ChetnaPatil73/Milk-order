@@ -49,7 +49,7 @@ form .txt_field{
     left: 5px;
     color: #adadad;
     transform: translatey(-50px);
-    font: size 16px;
+    font-size :16px;
     pointer-events: none;
     transition: .5s;
 }
