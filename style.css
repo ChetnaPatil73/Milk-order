@@ -186,7 +186,7 @@ background: #fff;
     background: var(--bg-color-1);
     box-shadow: var(--box-shadow);
     border-radius: 0.5rem;
-    padding: 5rem;
+    padding: 7rem;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
